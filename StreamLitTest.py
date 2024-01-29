@@ -1,2 +1,3 @@
 import streamlit as st
-print('Okay')
+st.write('Printing')
+print('OkayDude')
